@@ -1,0 +1,6 @@
+G.divya
+CH.sanathkumar
+B.keerthana
+S.nagasri
+Sk.sana
+git add student.txt
